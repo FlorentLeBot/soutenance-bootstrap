@@ -1,0 +1,12 @@
+Essayez de penser mobile-first pour la réalisation du projet
+
+Réaliser à l'identique :
+
+    La page d'accueil version desktop
+    largeur globale du container max : 1400px
+    Police Quicksand à traiter comme il convient
+
+Réaliser à votre convenance :
+
+    La maquette de la version mobile sur xd ou Figma
+    que vous intègrerez par la suite en html/CSS
